@@ -1,4 +1,4 @@
-**Title: Building a Machine Learning Model with Streamlit**
+#Building a Machine Learning Model with Streamlit
 
 **Overview**
 
